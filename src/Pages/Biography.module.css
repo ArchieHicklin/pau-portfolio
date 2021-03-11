@@ -1,0 +1,38 @@
+.bioText {
+    line-height: 1.5;
+    max-width: 30em;
+}
+
+.bioHeadline {
+    font-size: 2.25rem;
+}
+
+.bioImage {
+    font-size: 1rem;
+    width: 100%;
+    max-width: 30em;
+}
+
+.bioArticle {
+    padding: 1rem;
+}
+
+@media screen and (min-width: 30em) {
+    .bioArticle {
+        padding-left: 4rem;
+        padding-right: 4rem;
+        padding-top: 1rem;
+        /* margin: auto;
+        width: 30em; */
+    }
+}
+
+/* @media screen and (max-width: 1200px) {
+    .bioArticle {
+        padding-left: 4rem;
+        padding-right: 4rem;
+        padding-top: 1rem;
+        margin: none;
+        width: 100%;
+    }
+} */
