@@ -38,8 +38,7 @@ import HumanThirtyOne from "./Pages/HumanThirtyOne";
 import HumanThirtyTwo from "./Pages/HumanThirtyTwo";
 import HumanThirtyThree from "./Pages/HumanThirtyThree";
 import HumanThirtyFour from "./Pages/HumanThirtyFour";
-
-
+import Nobody from "./Pages/Nobody";
 
 function App() {
   return (
@@ -82,6 +81,7 @@ function App() {
           <Route path="/human-thirtytwo" component={HumanThirtyTwo} exact />
           <Route path="/human-thirtythree" component={HumanThirtyThree} exact />
           <Route path="/human-thirtyfour" component={HumanThirtyFour} exact />
+          <Route path="/nobody" component={Nobody} exact />
           <Route path="/person/:personId" component={PersonPage} />
         </Switch>
       </Router>
