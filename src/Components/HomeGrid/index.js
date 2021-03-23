@@ -86,7 +86,7 @@ const HomeGrid = () => {
           <a href="/human-four">
             <Card
               title="Human 4"
-              size="113x160"
+              size="56x76"
               medium="Charcoal, white chalk"
               price="1.990,00 €"
               painting={Four}
@@ -95,216 +95,216 @@ const HomeGrid = () => {
           <a href="/human-five">
             <Card
               title="Human 5"
-              size="113x160"
+              size="56x76"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.990,00 €"
               painting={Five}
             />
           </a>
           <a href="/human-six">
             <Card
               title="Human 6"
-              size="113x160"
+              size="96x89"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="3.500,00 €"
               painting={Six}
             />
           </a>
           <a href="/human-seven">
             <Card
               title="Human 7"
-              size="113x160"
+              size="90x130"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="5.470,00 €"
               painting={Seven}
             />
           </a>
           <a href="/human-eight">
             <Card
               title="Human 8"
-              size="113x160"
+              size="60x95"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="2.860,00 €"
               painting={Eight}
             />
           </a>
           <a href="/human-nine">
             <Card
               title="Human 9"
-              size="113x160"
+              size="35x45"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="824,00 €"
               painting={Nine}
             />
           </a>
           <a href="/human-ten">
             <Card
               title="Human 10"
-              size="113x160"
+              size="41x50"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.026,00 €"
               painting={Ten}
             />
           </a>
           <a href="/human-eleven">
             <Card
               title="Human 11"
-              size="113x160"
+              size="33x43"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="790,00 €"
               painting={Eleven}
             />
           </a>
           <a href="/human-twelve">
             <Card
               title="Human 12"
-              size="113x160"
+              size="38x56"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.064,00 €"
               painting={Twelve}
             />
           </a>
           <a href="/human-thirteen">
             <Card
               title="Human 13 "
-              size=" 113x160 "
+              size=" 33x42 "
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 780 , 00 € "
               painting={Thirteen}
             />
           </a>
           <a href="/human-fourteen">
             <Card
               title="Human 14"
-              size="113x160"
+              size="27x56"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="756,00 €"
               painting={Fourteen}
             />
           </a>
           <a href="/human-fifteen">
             <Card
               title="Human 15"
-              size="113x160"
+              size="78x83"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="3.180,00 €"
               painting={Fifteen}
             />
           </a>
           <a href="/human-sixteen">
             <Card
               title="Human 16 "
-              size=" 113x160 "
+              size=" 36x76"
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 1.275 , 00 € "
               painting={Sixteen}
             />
           </a>
           <a href="/human-seventeen">
             <Card
               title="Human 17"
-              size="113x160"
+              size="50x71"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.774,00 €"
               painting={Seventeen}
             />
           </a>
           <a href="/human-eighteen">
             <Card
               title="Human 18 "
-              size=" 113x160 "
+              size=" 50x56 "
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 1.400 , 00 € "
               painting={Eighteen}
             />
           </a>
           <a href="/human-nineteen">
             <Card
               title="Human 19"
-              size="113x160"
+              size="71x50"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.774,00 €"
               painting={Nineteen}
             />
           </a>
           <a href="/human-twenty">
             <Card
               title="Human 20 "
-              size=" 113x160 "
+              size=" 50x71 "
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 1.774 , 00 € "
               painting={Twenty}
             />
           </a>
           <a href="/human-twentyone">
             <Card
               title="Human 21"
-              size="113x160"
+              size="56x76"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.990,00 €"
               painting={TwentyOne}
             />
           </a>
           <a href="/human-twentytwo">
             <Card
               title="Human 22"
-              size="113x160"
+              size="56x76"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.990,00 €"
               painting={TwentyTwo}
             />
           </a>
           <a href="/human-twentythree">
             <Card
               title="Human 23"
-              size="113x160"
+              size="50x71"
               medium="Charcoal, white chalk"
-              price="7.780,00 €"
+              price="1.774,00 €"
               painting={TwentyThree}
             />
           </a>
           <a href="/human-twentyfour">
             <Card
               title="Human 24 "
-              size=" 113x160 "
+              size=" 33x43 "
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 790 , 00 € "
               painting={TwentyFour}
             ></Card>
           </a>
           <a href="/human-twentyfive">
             <Card
               title="Human 25"
-              size=" 113x160 "
+              size=" 50x71 "
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 1.774 , 00 € "
               painting={TwentyFive}
             ></Card>
           </a>
           <a href="/human-twentysix">
             <Card
               title="Human 26"
-              size=" 113x160 "
+              size=" 56x76 "
               medium=" Charcoal , white chalk "
-              price=" 7.780 , 00 € "
+              price=" 1.990 , 00 € "
               painting={TwentySix}
             ></Card>
           </a>
           <a href="/human-twentyseven">
             <Card
               title="Human 27"
-              size=" 113x160 "
+              size=" 76x56 "
               medium=" Charcoal , white chalk "
-              price=" 7.780,00 €"
+              price=" 1.990,00 €"
               painting={TwentySeven}
             ></Card>
           </a>
           <a href="/human-twentyeight">
             <Card
               title="Human 28"
-              size=" 113x160 "
+              size=" 179x250 "
               medium=" Charcoal, white chalk"
-              price=" 7.780,00 €"
+              price=" 12.800,00 €"
               painting={TwentyEight}
             ></Card>
           </a>
